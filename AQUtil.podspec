@@ -4,11 +4,11 @@ Pod::Spec.new do |s|
 
 
 s.name         = "AQUtil"
-s.version      = "1.0.0"
+s.version      = "1.0.1"
 s.summary      = "A Swift Util of AQUtil."
 
 s.description  = <<-DESC
-A Swift Util .
+A Swift Util for AQ, Just only have Util .
 DESC
 
 s.homepage     = "https://github.com/aq12345/AQUtil.git"
